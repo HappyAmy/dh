@@ -11,7 +11,7 @@ import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 
 public class MainActivity extends Activity implements OnClickListener{
-	ImageView iv1,iv2,iv3,iv5;
+	ImageView iv1,iv2,iv3,iv4,iv5;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
